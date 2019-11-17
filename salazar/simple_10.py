@@ -34,4 +34,4 @@ print ("#################################")
 #si el comprador es compulsivo, mostrarle el 30% de descuento
 if (comprador_compulsivo==True):
     print ("GANASTE EL 30% DE DESCUENTO")
-"FIN_IF"
+#FIN_IF
